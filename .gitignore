@@ -1,0 +1,5 @@
+venv/
+.vscode/
+output/
+__pycache__/
+offline_packages/
